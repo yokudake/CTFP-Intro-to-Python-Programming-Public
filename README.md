@@ -1,6 +1,7 @@
 # Start Here!
 
-Hello there! Welcome to the Github Repository for my set of assignments for Introduction to Python Programming for students of Undergraduate quantum mechanics in chemistry. Here you will find the code and supplementary material needed to implement the assignments into your curriculum. These assignments are intended to introduce undergraduate students in chemistry with little to no programming background to Python 3 through a variety of exercises that correlate to their studies in introductory quantum mechanics. 
+Hello there! Welcome to the Github Repository for my set of assignments for my project ***Programming Confidence with Wavefunctions using Computational
+Literacy***: an introduction to python programming for students of undergraduate quantum mechanics in chemistry. Here you will find the code and supplementary material needed to implement the assignments into your curriculum. These assignments are intended to introduce undergraduate students in chemistry with little to no programming background to Python 3 through a variety of exercises that correlate to their studies in introductory quantum mechanics. 
 
 ***Disclaimer*** 
 
